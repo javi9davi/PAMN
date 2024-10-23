@@ -6,13 +6,13 @@ ArtSpace es una aplicación para Android que muestra una selección de obras de 
 
 ## Qué se ha aprendido
 
-- **Compilar Prototipos de Baja Fidelidad:** Aprenderás cómo traducir prototipos simples al código, lo que es fundamental en el desarrollo de aplicaciones.
+- **Compilar Prototipos de Baja Fidelidad:** Cómo traducir prototipos simples al código, fundamental en el desarrollo de aplicaciones como introducción a Kotlin.
   
-- **Uso de Componibles en Jetpack Compose:** Comprenderás cómo compilar diseños simples utilizando los elementos `Row` y `Column`, organizándolos mediante los parámetros `horizontalAlignment` y `verticalArrangement`.
+- **Uso de Componibles en Jetpack Compose:** Comprender cómo compilar diseños simples utilizando los elementos `Row` y `Column`, organizándolos mediante los parámetros `horizontalAlignment` y `verticalArrangement`.
 
-- **Personalización de Elementos:** Aprenderás a personalizar elementos de Compose utilizando el objeto `Modifier`, lo que te permitirá crear interfaces de usuario más atractivas y funcionales.
+- **Personalización de Elementos:** Aprender a personalizar elementos de Compose utilizando el objeto `Modifier`, lo que te permitirá crear interfaces de usuario más atractivas y funcionales.
 
-- **Manejo de Estados:** Identificarás diferentes estados en la aplicación y aprenderás a modificarlos mediante activadores, como presionar botones.
+- **Manejo de Estados:** Identificar diferentes estados en la aplicación y aprenderás a modificarlos mediante activadores, como presionar botones.
 
 
 ## Tecnologías Utilizadas
